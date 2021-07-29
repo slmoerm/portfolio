@@ -1,0 +1,9 @@
+*.pdf
+!KURSOVAYa.pdf
+*.odt
+.vimspector.json
+*.swp
+*.doc
+*.docx
+*.odg
+*.jpg
